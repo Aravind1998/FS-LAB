@@ -1,0 +1,16 @@
+Enter no of names:
+Enter name 1:
+Reversed name 1:
+setaG
+Enter name 2:
+Reversed name 2:
+sboJ
+Enter name 3:
+Reversed name 3:
+kcainzoW
+Enter name 4:
+Reversed name 4:
+sinneD
+Enter name 5:
+Reversed name 5:
+grebrekcuZ
